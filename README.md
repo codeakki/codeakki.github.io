@@ -5,4 +5,4 @@
 # Tech Stack Used
 # HTML,CSS,JAVASCRIPT
 
-# Live at : codeakki.github.io
+# Live at : https://codeakki.github.io/
